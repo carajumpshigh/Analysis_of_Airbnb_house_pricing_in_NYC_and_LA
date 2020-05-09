@@ -8,3 +8,7 @@ This the final project for CUSP-GX-5003 Machine Learning for Cities @ NYU
 - Kunru Lu ([kl3743@nyu.edu](kl3743@nyu.edu))
 
 ## Data Sources
+
+
+## Methodology
+![Methodology](methodology.jpg)
