@@ -2,7 +2,7 @@
 
 ## Airbnb Open Data
 
-The Airbnb open data include listings, reviews and calendar. The Airbnb listing data including listing geological information, housing condition, pricing and customer review for each listing data, are scraped from [inside airbnb](http://insideairbnb.com/get-the-data.html). There are 51097 rows of listings in NYC and 38851 in LA scraped by February 13th, 2020 (before COVID-19 widely recognized). The reviews data includes detailed contents, customer id and related listing information. The calendar data consists of the prices and maximum and minimum nights to stay for each listing throughout the year.
+The Airbnb open data include listings, reviews and calendar. The Airbnb listing data including listing geological information, housing condition, pricing and customer review for each listing data, are scraped from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). There are 51097 rows of listings in NYC and 38851 in LA scraped by February 13th, 2020 (before COVID-19 widely recognized). The reviews data includes detailed contents, customer id and related listing information. The calendar data consists of the prices and maximum and minimum nights to stay for each listing throughout the year.
 
 ## Census Data
 
