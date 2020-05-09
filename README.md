@@ -10,7 +10,7 @@ This the final project for CUSP-GX-5003 Machine Learning for Cities @ NYU
 ## Data
 The data we used in this project includes:
 - Airbnb Open Data (accessible in [Inside Airbnb](http://insideairbnb.com/get-the-data.html))
-- Census Data (`Economy_Panel_LA.csv`)
+- Census Data (`NYC_2019_Arrest.csv`,`Economy_Panel_LA.csv`)
 - Spatial Data (`LA/Zip_Code_Boundaries`, `LA/Council_District_Boundaries`, [NYC Zip Code Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html))
 - Others ()
 
