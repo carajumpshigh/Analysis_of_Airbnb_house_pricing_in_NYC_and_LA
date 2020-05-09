@@ -1,4 +1,4 @@
-# A Tale of Two Cities: Analysis of Airbnb house pricing in NYC & LA
+# Analysis of Airbnb house pricing in NYC & LA
 This the final project for CUSP-GX-5003 Machine Learning for Cities @ NYU
 
 ## Group Members
