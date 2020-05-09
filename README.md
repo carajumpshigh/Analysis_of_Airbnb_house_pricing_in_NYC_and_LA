@@ -14,7 +14,7 @@ The data we used in this project includes:
 - Spatial Data (`LA/Zip_Code_Boundaries`, `LA/Council_District_Boundaries`, [NYC Zip Code Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html))
 - Others ()
 
-The data we used can be accessed in the `Data` folder. For detialed description of data sources, please review the `Summary` file in the `Data` folder. 
+The data we used can be accessed in the `Data` folder or through the links. For detialed description of data sources, please review the `Summary` file in the `Data` folder. 
 
 ## Methodology
 ![Methodology](methodology.png)
