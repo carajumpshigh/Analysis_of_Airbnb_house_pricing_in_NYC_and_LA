@@ -11,4 +11,4 @@ This the final project for CUSP-GX-5003 Machine Learning for Cities @ NYU
 
 
 ## Methodology
-![Methodology](methodology.jpg)
+![Methodology](methodology.png)
